@@ -22,9 +22,7 @@ export default function Home() {
   Best in the west no sub contractors a family business with 20 years experience.
         </p>
   <p className="details">
-              My mantra is always client right and make a clieny happy is my main goal.
-Our company will take you from a-z buying all materials needed and provide blue prints design and ideas to make your home a dream. 
-I am always available 364 days a year try us and feel free if any questions contact me directly.
+         Our company will take you from a-z buying all materials needed and provide blue prints design and ideas to make your home a dream. Make the client happy is my top goal.
         </p>
       </main>
   

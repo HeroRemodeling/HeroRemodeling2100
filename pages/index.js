@@ -31,7 +31,7 @@ I am always available 364 days a year try us and feel free if any questions cont
       </main>
   
       <body>
-        <img src="remodeling.jpg" width="1024" height="583"></img>
+        <img src="remodeling.jpg" width="682" height="388"></img>
       </body>
 
       <Footer />
